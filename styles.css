@@ -1,0 +1,16 @@
+    body {
+        background-color: rgb(63, 168, 168);
+    }
+li {
+    background-color: aqua;
+}
+.color-green {
+    color: springgreen;
+}
+#li-importantisimo {
+    color: crimson;
+}
+.absent-color {
+    color: blueviolet;
+}
+.color-grey 
